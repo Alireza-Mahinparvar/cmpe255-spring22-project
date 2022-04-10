@@ -1,1 +1,7 @@
-# cmpe255-spring22-project
+# Team Members
+
+- Alireza Mahin parvar
+- Jack Zhu
+- Afroz Inamdar
+- Virag Bhanderi
+- Kanupriya Agrawal
